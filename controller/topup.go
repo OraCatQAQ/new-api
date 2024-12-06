@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fmt"
-	"github.com/OraCatQAQ/go-epay/epay"
+	"github.com/Calcium-Ion/go-epay/epay"
 	"github.com/gin-gonic/gin"
 	"github.com/samber/lo"
 	"log"

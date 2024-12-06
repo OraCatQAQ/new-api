@@ -3,6 +3,8 @@ module one-api
 // +heroku goVersion go1.18
 go 1.23.4
 
+replace github.com/Calcium-Ion/go-epay => github.com/OraCatQAQ/go-epay v0.0.4
+
 require (
 	github.com/Calcium-Ion/go-epay v0.0.4
 	github.com/andybalholm/brotli v1.1.1
